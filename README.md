@@ -2,11 +2,11 @@
 
 A personal fork of the original CodeCLI project, customized for my own use and development.
 
-## 📋 Overview
+## Overview
 
 This is a personal command-line tool fork with custom branding and package naming. It's designed for my local development workflow and personal projects.
 
-## ⚠️ Important Copyright & Licensing Notice
+## Important Copyright & Licensing Notice
 
 **This is a personal fork - not an official release.**
 
@@ -19,7 +19,7 @@ Before publishing or distributing this code publicly, you must:
 
 The current `UNLICENSED` marker is a temporary placeholder to prevent accidental false licensing claims.
 
-## 🔄 Rebrand Changes Applied
+## Rebrand Changes Applied
 
 | Original | Fork Version |
 |----------|--------------|
@@ -29,7 +29,7 @@ The current `UNLICENSED` marker is a temporary placeholder to prevent accidental
 | Repository URL | `https://github.com/your-username/my-code-fork-cli.git` |
 | License | `UNLICENSED` (temporary) |
 
-## 🚀 Local Development & Usage
+##  Local Development & Usage
 
 ```bash
 # Install dependencies
