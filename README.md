@@ -26,7 +26,7 @@ The current `UNLICENSED` marker is a temporary placeholder to prevent accidental
 | npm package name (original) | `my-code-fork-cli` |
 | CLI command (original) | `mycodecli` |
 | Binary file | `bin/mycodecli` |
-| Repository URL | `https://github.com/your-username/my-code-fork-cli.git` |
+| Repository URL | `https://github.com/mohdshamii/my-code-fork-cli.git` |
 | License | `UNLICENSED` (temporary) |
 
 ##  Local Development & Usage
